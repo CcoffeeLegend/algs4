@@ -82,5 +82,8 @@
 		</profile>
 	</profiles>
 	<dependencies>
+	    <groupId>edu.princeton.cs</groupId>
+    	<artifactId>algs4</artifactId>
+    	<version>1.0</version>
 	</dependencies>  
 </project>
